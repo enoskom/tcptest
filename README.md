@@ -31,12 +31,12 @@ Kullanım
 
     Proje dosyasını indirin veya klonlayın:
 
-git clone https://github.com/[KullanıcıAdınız]/tcp-flag-test.git
-cd tcp-flag-test
+git clone https://github.com/enoskom/tcptest.git
+cd tcptest
 
 Script'i çalıştırın:
 
-python tcp_flag_test.py
+python tcpflag.py
 
 IP ve portları girin: Script çalıştırıldığında, kullanıcıdan hedef 
 IP adresi ve port numaraları girilmesi istenecektir. Portlar 
